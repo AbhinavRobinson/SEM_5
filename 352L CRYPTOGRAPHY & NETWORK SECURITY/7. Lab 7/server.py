@@ -1,11 +1,3 @@
-"""
- ! SERVER File
- ? Bind to socket and listen for client message.
-
- Project by Abhinav Robinson
-"""
-
-
 # Import python socket, random, sympy, hashlib, pickle module
 import socket, random, sympy, hashlib, pickle
 

@@ -1,10 +1,3 @@
-"""
- ! CLIENT File
- ? Connect to socket and send message to server.
-
- Project by Abhinav Robinson
-"""
-
 
 # Import Python Socket, pickle, hashlib Module
 import socket, pickle, hashlib
